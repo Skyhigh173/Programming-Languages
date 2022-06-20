@@ -29,3 +29,9 @@ program can print all ASCII chars.
 ```bf
 +.[+.]
 ```
+
+## Usage
+
+You can use it to do many things such as [this](https://github.com/Skyhigh173/Programming-Languages/blob/main/Weird/BrainF/mandelBrotSet.bf)
+.
+This language can solve almost any problem.
