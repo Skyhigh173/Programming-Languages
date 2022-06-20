@@ -22,7 +22,9 @@ The language consists of eight commands. They are:
 
 ## Loops
 
-Use `[]` as loop. for example, use this program can print all ASCII chars.
+Use `[]` as loop. for example, use 
+[this](https://github.com/Skyhigh173/Programming-Languages/blob/main/Weird/BrainF/allChars.bf) 
+program can print all ASCII chars.
 
 ```bf
 +.[+.]
